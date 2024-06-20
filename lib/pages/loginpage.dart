@@ -122,7 +122,7 @@ class Loginpage extends StatelessWidget {
                 children: [
                   SquareTiled(imagePath: 'lib/images/search.png'),
                   SizedBox(
-                    width: 0,
+                    width: 20,
                   ),
                   SquareTiled(imagePath: 'lib/images/apple-logo.png'),
                 ],

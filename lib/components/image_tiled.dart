@@ -16,7 +16,7 @@ class SquareTiled extends StatelessWidget {
       ),
       child: Image.asset(
         imagePath,
-        height: 25,
+        height: 30,
       ),
     );
   }
